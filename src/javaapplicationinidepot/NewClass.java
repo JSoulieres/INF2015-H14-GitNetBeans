@@ -10,14 +10,6 @@ package javaapplicationinidepot;
  *
  * @author gh191177
  */
-public class JavaApplicationIniDepot {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    int i = 0 ;
-    }
+public class NewClass {
     
 }
